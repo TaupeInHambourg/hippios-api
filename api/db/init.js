@@ -1,4 +1,4 @@
-const pool = require(".");
+const pool = require("../db");
 
 async function initDB() {
   try {
